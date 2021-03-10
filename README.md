@@ -11,6 +11,7 @@ It's a great way to remember what's coming up and enjoy that anticipation all th
 ## Features
 CURRENT
 - Create account and log in/log out.
+- View and Store data from external api's.
 - Create entries for events (book publication, movie airing, live show, game release).
 - Countdown timer for each event.
 
